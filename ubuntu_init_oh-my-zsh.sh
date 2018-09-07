@@ -3,4 +3,3 @@ cp ~/.oh-my-zsh/templates/zshrc ~/.zshrc
 chsh -s /bin/zsh 
 touch .bash_profile
 source .zshrc
-sudo shutdown -r 0
